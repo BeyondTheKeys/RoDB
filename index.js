@@ -23,6 +23,4 @@ app.post('/api/set', (req, res) => {
 	}
 });
 
-app.listen(3000, () => {
-  console.log('Server Started');
-});
+app.listen(3000});
